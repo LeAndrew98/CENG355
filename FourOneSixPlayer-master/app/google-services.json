@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1041646646868",
+    "firebase_url": "https://fouronesixplayer-test.firebaseio.com",
+    "project_id": "fouronesixplayer-test",
+    "storage_bucket": "fouronesixplayer-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041646646868:android:ad8015d65af0d546",
+        "android_client_info": {
+          "package_name": "com.fouronesixplayer.fouronesixplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041646646868-l20dgdh0n7gfv6tt127eg3a44rdhci5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fouronesixplayer.fouronesixplayer",
+            "certificate_hash": "6843ddc81255c0deedab488346b507f1e1ed7555"
+          }
+        },
+        {
+          "client_id": "1041646646868-k192upeulfagcbrtksnr3j1nu8n5lf3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRwP6hidLu-2Xie4eEhEFJ6wamLtMJi0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041646646868-k192upeulfagcbrtksnr3j1nu8n5lf3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

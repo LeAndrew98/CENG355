@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fouronesixplayer.fouronesixplayer">
+
+        <item
+        android:id="@+id/action_list"
+        android:orderInCategory="100"
+        android:title="List All Songs"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_upload"
+        android:orderInCategory="200"
+        android:title="Upload A Song"
+        app:showAsAction="never" />
+
+
+
+    <item
+        android:id="@+id/action_quit"
+        android:orderInCategory="300"
+        android:title="Quit"
+        app:showAsAction="never" />
+
+
+</menu>
